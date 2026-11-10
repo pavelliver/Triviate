@@ -1,0 +1,19 @@
+{
+  "name": "Triviate",
+  "short_name": "Triviate",
+  "description": "A pass-the-phone trivia board game for 2 to 5 teams. Rate yourself from 1 to 5, answer, and race to the Reckoning.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12101F",
+  "theme_color": "#12101F",
+  "lang": "en",
+  "categories": ["games", "entertainment", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
